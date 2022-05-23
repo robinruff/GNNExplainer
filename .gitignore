@@ -1,0 +1,20 @@
+# Ignore everything
+/*
+
+# Whitelist
+!.gitignore
+!README.md
+!LICENSE
+!gnnx/
+!examples/
+!tests/
+!pyproject.toml
+!setup.py
+!abschlussbericht.ipynb
+!class_diagram.svg
+
+# Ignore all files named .DS_Store or ending with .log
+**/.DS_Store
+**.log
+**/__pycache__
+
