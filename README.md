@@ -63,8 +63,8 @@ explanation = explainer.get_explanation()
 explainer.present_explanation(explanation) 
 ```
 
-For more examples look inside the [examples directory](https://github.com/aimat-lab/GNNExplainer/tree/main/examples).
+For more examples look inside the [examples directory](https://github.com/robinruff/GNNExplainer/tree/main/examples).
 
 ## Class Diagram for `gnnx` package 
 
-![Class diagram](https://github.com/aimat-lab/GNNExplainer/blob/main/class_diagram.svg?raw=true)
+![Class diagram](https://github.com/robinruff/GNNExplainer/blob/main/class_diagram.svg)
